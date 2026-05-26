@@ -1,2 +1,1 @@
-It's my first file in this directory
-But now it's got extra contents
+A totally different approach
